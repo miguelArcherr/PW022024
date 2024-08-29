@@ -1,0 +1,18 @@
+.l1{
+    margin: 20px 30px 15px 15px;
+    display: flex;
+    justify-content:left;
+}
+
+.l2{
+    margin: 20px 30px 15px 15px;
+    display: flex;
+    justify-content: center;
+}
+
+.l3{
+    margin: 20px 30px 15px 15px;
+    height: 300px;
+    display: flex;
+    justify-content: right;
+}

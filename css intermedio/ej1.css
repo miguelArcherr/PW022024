@@ -1,0 +1,22 @@
+.container1{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.container2{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    align-self: flex-end;
+    align-content: flex-end;
+    margin-top: 272px;
+    margin-bottom: 0;
+}
+
+.tm{
+    width: 300px;
+    height: 300px;
+}
+
+
